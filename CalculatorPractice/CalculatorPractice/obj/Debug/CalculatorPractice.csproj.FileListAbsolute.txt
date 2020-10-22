@@ -1,0 +1,9 @@
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\bin\Debug\CalculatorPractice.exe
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\bin\Debug\CalculatorPractice.pdb
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.csprojAssemblyReference.cache
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.Properties.Resources.resources
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.csproj.GenerateResource.cache
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.exe
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.pdb
+C:\Users\ssimonov\source\repos\CalculatorPractice\CalculatorPractice\obj\Debug\CalculatorPractice.CalculatorForm.resources
